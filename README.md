@@ -8,7 +8,7 @@
 
 Download the latest standalone executable for Windows (No setup/installation needed):
 
-### [📥 Download Solver v4 for Windows (Latest Release)](https://github.com/Anurag637/Solver-Standalone/releases/tag/v4.0.0)
+### [📥 Download Solver v4 for Windows (Latest Release)](https://github.com/Anurag637/Solver-Standalone/releases/download/v4.0.0/Solver.exe)
 
 *Compatible with Windows 10 & Windows 11 (64-bit)*
 
